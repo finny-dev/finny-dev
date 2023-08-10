@@ -35,6 +35,9 @@
 ![F1NNY`s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=finny-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/803020625379196949)](https://discord.com/users/803020625379196949)
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finny-dev&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=finny-dev&hide_border=true&card_width=338&theme=transparent" />
+<img src="https://komarev.com/ghpvc/?username=finny-dedv&color=lightgray" alt="fax" width="" height="">
 
 ![](https://komarev.com/ghpvc/?username=finny-dev&color=blueviolet)
 
