@@ -37,8 +37,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=finny-dev&hide_border=true&card_width=338&theme=transparent" />
 <img src="https://komarev.com/ghpvc/?username=finny-dedv&color=lightgray" alt="fax" width="" height="">
 
-![](https://komarev.com/ghpvc/?username=finny-dev&color=blueviolet)
-
 <p align="center">
   <a href="https://twitch.tv/finnycmg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCrlXUs_OwK7ay4dPRU5HDAw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
