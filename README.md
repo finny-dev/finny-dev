@@ -19,7 +19,7 @@
 (Newest -> Oldest)
 
 
-<h2 align="center">past projects</h2>
+<h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
 - [CX Roleplay - Founder](https://discord.gg/cxuk) *(CMG Inspired Fragging Server)*
@@ -30,9 +30,11 @@
 - Earth-RP (FiveM Semi-RP/Fragging server)
 
 
-<h2 align="center">stats</h2>
+<h2 align="center">Stats</h2>
 
 ![F1NNY`s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=finny-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/803020625379196949)](https://discord.com/users/803020625379196949)
 
 ![](https://komarev.com/ghpvc/?username=finny-dev&color=blueviolet)
 
