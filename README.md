@@ -18,11 +18,11 @@
 
 (Newest -> Oldest)
 
-- [MVT - Founder](https://discord.gg/mvt) *(CMG Inspired Fragging / Semi-RPServer)*
-
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
+- [GMT - Founder](https://discord.gg/gmt) *(CMG Inspired Fragging / Semi-RPServer)*
+- [MVT - Founder](https://discord.gg/mvt) *(CMG Inspired Fragging / Semi-RPServer)*
 - [CX Roleplay - Founder](https://discord.gg/cxuk) *(CMG Inspired Fragging Server)*
 - [Element Roleplay - Founder](https://discord.gg/erpuk) *(CMG Inspired Fragging Server)*
 - [Aqua Roleplay - Weapon Developer](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
