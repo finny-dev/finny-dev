@@ -17,18 +17,16 @@
 <h2 align="center">Current Projects</h2>
 
 (Newest -> Oldest)
-
+- [GMT] (https://discord.gg/gmt) - Founder *(CMG Inspired Fragging / Semi-RPServer)*
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
-- [GMT - Founder](https://discord.gg/gmt) *(CMG Inspired Fragging / Semi-RPServer)*
-- [MVT - Founder](https://discord.gg/mvt) *(CMG Inspired Fragging / Semi-RPServer)*
-- [CX Roleplay - Founder](https://discord.gg/cxuk) *(CMG Inspired Fragging Server)*
-- [Element Roleplay - Founder](https://discord.gg/erpuk) *(CMG Inspired Fragging Server)*
-- [Aqua Roleplay - Weapon Developer](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
-- [FNR - Weapon Developer](https://discord.gg/fnruk) *(CMG Inspired Fragging Server)*
-- NV7 (FiveM Semi-RP/Fragging server)
-- Earth-RP (FiveM Semi-RP/Fragging server)
+- MVT - Founder] *(CMG Inspired Fragging / Semi-RPServer)*
+- CX Roleplay - Founder *(CMG Inspired Fragging Server)*
+- Element Roleplay - Founder *(CMG Inspired Fragging Server)*
+- Aqua Roleplay - Weapon Developer *(CMG Inspired Fragging Server)*
+- FNR - Weapon Developer *(CMG Inspired Fragging Server)*
+- NV7 - Developer *(FiveM Semi-RP/Fragging server)*
 
 
 <h2 align="center">Stats</h2>
