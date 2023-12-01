@@ -17,7 +17,7 @@
 <h2 align="center">Current Projects</h2>
 
 (Newest -> Oldest)
-- [GMT (https://discord.gg/gmt)] - Founder *(CMG Inspired Fragging / Semi-RPServer)*
+- [GMT](https://discord.gg/gmt) *(FiveM Semi-RP/Fragging server)*
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
