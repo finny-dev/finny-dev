@@ -21,6 +21,7 @@
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
+- 3MG - Lead Developer] *(CMG Inspired Fragging)*
 - MVT - Founder] *(CMG Inspired Fragging / Semi-RPServer)*
 - CX Roleplay - Founder *(CMG Inspired Fragging Server)*
 - Element Roleplay - Founder *(CMG Inspired Fragging Server)*
