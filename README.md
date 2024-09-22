@@ -29,7 +29,7 @@
 - FNR - Weapon Developer *(CMG Inspired Fragging Server)*
 - NV7 - Developer *(FiveM Semi-RP/Fragging server)*
 
-
+ 
 <h2 align="center">Stats</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/803020625379196949)](https://discord.com/users/803020625379196949)
