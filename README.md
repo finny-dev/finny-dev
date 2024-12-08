@@ -13,22 +13,6 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 
 </p>
-
-<h2 align="center">Current Projects</h2>
-
-(Newest -> Oldest)
-- [GMT](https://discord.gg/gmtfivem) *(FiveM Semi-RP/Fragging server)*
-<h2 align="center">Past projects</h2>
-
-(Newest -> Oldest)
-- 3MG - Lead Developer] *(CMG Inspired Fragging)*
-- MVT - Founder] *(CMG Inspired Fragging / Semi-RPServer)*
-- CX Roleplay - Founder *(CMG Inspired Fragging Server)*
-- Element Roleplay - Founder *(CMG Inspired Fragging Server)*
-- Aqua Roleplay - Weapon Developer *(CMG Inspired Fragging Server)*
-- FNR - Weapon Developer *(CMG Inspired Fragging Server)*
-- NV7 - Developer *(FiveM Semi-RP/Fragging server)*
-
  
 <h2 align="center">Stats</h2>
 
